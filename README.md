@@ -1,7 +1,8 @@
 
 # fpga-music-processing
 Authors: Twaha Kabika, Nisanth Mathew James
-The Authors are Postgraduate students (MSc. Biomedical Engineering) at Anhalt University of Applied Sciences, Germany.
+The Authors are graduate students (MSc. Biomedical Engineering) at Anhalt University of Applied Sciences, Germany.
+
 The project was implemented in Altera DE2_115 development board.
 softwares used: Quartus prime lite edition , eclipsec-nios2
 A simple music processing project n VHDL and niosII with equaliser, volume control and LED meter functions.
